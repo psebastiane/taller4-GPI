@@ -7,24 +7,28 @@ Código 201620810
 
 Objetivo: crear un proyecto de investigación abierta para el taller 4.
 
+## Instrucciones de reproducción
+1. Clonar o descargar este repositorio en su PC
+2. Abrir el archivo runall.do ubicado en la carpeta raíz del repositorio
+3. Correr el runall.ps1 en PowerShel. Esto generará la siguiente estructura de directorios:
+
 ```plaintext
 .
-proyecto/
-├── data/
-│   ├── raw/
-│   │   └── simulated_data.csv
-│   └── processed/
-│       └── clear_data.csv
-├── src/
-├── scripts/
-│   ├── simulated_data.py
-│   ├── data_cleaning.py
-│   └── graphs.py
-├── results/
-│   ├── figures/
-│   │   └── figure1.pdf
-│   └── tables/
-├── environment.yml
-├── runall.sh
-└── README.md
+└── psebastiane-taller4-gpi/
+    ├── README.md
+    ├── runall.ps1
+    └── proyecto/
+        ├── README.md
+        ├── environment.yml
+        ├── data/
+        │   ├── processed/
+        │   │   └── clear_data.csv
+        │   └── raw/
+        │       └── simulated_data.csv
+        ├── results/
+        │   └── figures/
+        └── scripts/
+            ├── data_cleaning.py
+            ├── graphs.py
+            └── simulated_data.py
 ```
