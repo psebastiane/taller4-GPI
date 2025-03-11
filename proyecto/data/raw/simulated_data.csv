@@ -1,0 +1,101 @@
+ID,Título,Afiliación,País,Año de publicación,Revista,Factor de impacto,Citas
+1,Estudio sobre la ciencia abierta 0,Universidad Nacional Autónoma de México,Brasil,2022,Nature,12.25,447
+2,Estudio sobre la ciencia abierta 1,Universidad de los Andes,Peru,2022,Nature,0.71,
+3,Estudio sobre la ciencia abierta 2,Universidad de Buenos Aires,Brazil,2020,Documentos CEDE,11.15,
+4,Estudio sobre la ciencia abierta 3,Universidad Nacional Autónoma de México,Peru,20XX,Nature,13.39,
+5,Estudio sobre la ciencia abierta 4,Universidad Nacional Autónoma de México,Colombia,20XX,Journal of Open Science,6.11,240
+6,Estudio sobre la ciencia abierta 5,Universidade de São Paulo,Argentna,2021,Journal of Open Science,8.86,cien
+7,,Universidad de los Andes,Brasil,2023,Journal of Open Science,13.13,
+8,Estudio sobre la ciencia abierta 7,Universidade de São Paulo,México,2021,Nature,13.53,cien
+9,Estudio sobre la ciencia abierta 8,Universidade de São Paulo,Brasil,2020,Documentos CEDE,4.59,cien
+10,,Universidad de los Andes,Argentina,2022,Nature,13.23,cien
+11,Estudio sobre la ciencia abierta 10,Universidad Nacional Autónoma de México,Colombia,20XX,Science,7.25,90
+12,Estudio sobre la ciencia abierta 11,Pontificia Universidad Católica de Chile,Brasil,20XX,Nature,-1.83,233
+13,,Universidade de São Paulo,Colombia,20XX,Documentos CEDE,-1.99,316
+14,Estudio sobre la ciencia abierta 13,Universidad Nacional Autónoma de México,Argentina,20XX,Nature,11.53,193
+15,Estudio sobre la ciencia abierta 14,Pontificia Universidad Católica de Chile,México,2022,PLoS ONE,14.25,
+16,Estudio sobre la ciencia abierta 15,Universidade de São Paulo,México,2021,Documentos CEDE,-0.91,
+17,Estudio sobre la ciencia abierta 16,Universidad de Buenos Aires,Argentina,2020,Journal of Open Science,4.58,156
+18,Estudio sobre la ciencia abierta 17,Universidade de São Paulo,Brasil,2022,Science,7.09,
+19,Estudio sobre la ciencia abierta 18,Universidad de Buenos Aires,Brasil,20XX,Nature,10.6,
+20,,Pontificia Universidad Católica de Chile,Argentna,2022,Documentos CEDE,11.45,14
+21,Estudio sobre la ciencia abierta 20,Universidad de los Andes,Brazil,2022,Journal of Open Science,-0.22,cien
+22,Estudio sobre la ciencia abierta 21,Universidad de los Andes,Peru,2020,PLoS ONE,13.81,124
+23,Estudio sobre la ciencia abierta 22,Universidade de São Paulo,Brasil,2020,Journal of Open Science,-0.63,
+24,Estudio sobre la ciencia abierta 23,Universidad Nacional Autónoma de México,Chile,2022,Journal of Open Science,1.93,cien
+25,Estudio sobre la ciencia abierta 24,Universidad de los Andes,Brazil,2023,Science,11.36,cien
+26,Estudio sobre la ciencia abierta 25,Universidad Nacional Autónoma de México,Colombia,2023,Documentos CEDE,3.79,468
+27,Estudio sobre la ciencia abierta 26,Universidad de Buenos Aires,México,2023,Journal of Open Science,14.5,
+28,Estudio sobre la ciencia abierta 27,Universidad Nacional Autónoma de México,Peru,20XX,PLoS ONE,14.28,cien
+29,Estudio sobre la ciencia abierta 28,Universidad de Buenos Aires,Argentna,2022,Science,11.95,cien
+30,Estudio sobre la ciencia abierta 29,Universidad Nacional Autónoma de México,Brasil,20XX,Journal of Open Science,2.51,473
+31,Estudio sobre la ciencia abierta 30,Pontificia Universidad Católica de Chile,Peru,2020,PLoS ONE,0.08,
+32,Estudio sobre la ciencia abierta 31,Universidade de São Paulo,México,20XX,Nature,7.96,152
+33,Estudio sobre la ciencia abierta 32,Universidade de São Paulo,Chile,20XX,PLoS ONE,12.29,
+34,Estudio sobre la ciencia abierta 33,Pontificia Universidad Católica de Chile,Colombia,2022,Nature,1.1,cien
+35,Estudio sobre la ciencia abierta 34,Universidad de Buenos Aires,Argentna,2023,Nature,6.0,277
+36,Estudio sobre la ciencia abierta 35,Universidade de São Paulo,Chile,2023,Nature,5.88,
+37,Estudio sobre la ciencia abierta 36,Universidade de São Paulo,México,2022,Documentos CEDE,1.87,454
+38,Estudio sobre la ciencia abierta 37,Universidade de São Paulo,Brazil,20XX,PLoS ONE,5.22,310
+39,Estudio sobre la ciencia abierta 38,Universidad de Buenos Aires,Chile,2020,PLoS ONE,6.92,
+40,Estudio sobre la ciencia abierta 39,Universidad de Buenos Aires,Colombia,20XX,Documentos CEDE,1.81,270
+41,Estudio sobre la ciencia abierta 40,Universidad de los Andes,Colombia,2021,Journal of Open Science,14.0,
+42,Estudio sobre la ciencia abierta 41,Pontificia Universidad Católica de Chile,Argentna,2020,Nature,7.69,
+43,Estudio sobre la ciencia abierta 42,Universidade de São Paulo,Brazil,20XX,Science,1.31,108
+44,Estudio sobre la ciencia abierta 43,Universidad de Buenos Aires,Chile,2020,Documentos CEDE,13.76,cien
+45,Estudio sobre la ciencia abierta 44,Universidad de los Andes,México,2020,Science,10.42,cien
+46,Estudio sobre la ciencia abierta 45,Universidad de Buenos Aires,Colombia,2020,PLoS ONE,9.41,cien
+47,Estudio sobre la ciencia abierta 46,Universidad Nacional Autónoma de México,Peru,2021,Documentos CEDE,1.82,
+48,Estudio sobre la ciencia abierta 47,Pontificia Universidad Católica de Chile,Brasil,2023,Science,4.63,cien
+49,Estudio sobre la ciencia abierta 48,Universidade de São Paulo,Brazil,20XX,Nature,0.14,cien
+50,Estudio sobre la ciencia abierta 49,Universidad Nacional Autónoma de México,Argentna,2023,PLoS ONE,2.91,cien
+51,Estudio sobre la ciencia abierta 50,Universidad Nacional Autónoma de México,Argentina,2023,PLoS ONE,10.51,
+52,Estudio sobre la ciencia abierta 51,Pontificia Universidad Católica de Chile,Brazil,20XX,Science,12.9,71
+53,Estudio sobre la ciencia abierta 52,Universidad Nacional Autónoma de México,Peru,2020,Nature,0.49,cien
+54,Estudio sobre la ciencia abierta 53,Pontificia Universidad Católica de Chile,México,2020,Science,-0.06,356
+55,Estudio sobre la ciencia abierta 54,Universidad Nacional Autónoma de México,Peru,20XX,Science,11.89,cien
+56,Estudio sobre la ciencia abierta 55,Universidad de Buenos Aires,Argentina,2020,PLoS ONE,3.57,cien
+57,Estudio sobre la ciencia abierta 56,Universidad Nacional Autónoma de México,México,2023,Nature,-0.12,cien
+58,Estudio sobre la ciencia abierta 57,Universidad de los Andes,México,2023,Journal of Open Science,2.48,
+59,Estudio sobre la ciencia abierta 58,Universidad de Buenos Aires,Brasil,2020,Journal of Open Science,2.92,
+60,Estudio sobre la ciencia abierta 59,Universidade de São Paulo,México,2022,Nature,4.43,
+61,Estudio sobre la ciencia abierta 60,Universidad Nacional Autónoma de México,Chile,20XX,Nature,1.26,cien
+62,Estudio sobre la ciencia abierta 61,Pontificia Universidad Católica de Chile,Colombia,2023,Journal of Open Science,0.78,cien
+63,Estudio sobre la ciencia abierta 62,Universidad de Buenos Aires,Chile,2022,Science,-0.29,
+64,Estudio sobre la ciencia abierta 63,Universidad Nacional Autónoma de México,Argentina,2022,Nature,13.55,184
+65,Estudio sobre la ciencia abierta 64,Universidad Nacional Autónoma de México,Colombia,2023,Journal of Open Science,12.69,
+66,Estudio sobre la ciencia abierta 65,Universidade de São Paulo,Colombia,2022,Documentos CEDE,14.26,2
+67,Estudio sobre la ciencia abierta 66,Universidad de los Andes,Argentina,20XX,Documentos CEDE,11.9,cien
+68,Estudio sobre la ciencia abierta 67,Universidad de Buenos Aires,Brazil,20XX,Nature,5.06,122
+69,Estudio sobre la ciencia abierta 68,Universidad de Buenos Aires,Argentina,2021,Journal of Open Science,2.53,cien
+70,Estudio sobre la ciencia abierta 69,Universidad Nacional Autónoma de México,México,2020,Journal of Open Science,4.69,291
+71,Estudio sobre la ciencia abierta 70,Universidad de los Andes,Chile,2022,PLoS ONE,8.16,
+72,Estudio sobre la ciencia abierta 71,Universidad Nacional Autónoma de México,Brazil,2022,PLoS ONE,12.96,cien
+73,Estudio sobre la ciencia abierta 72,Universidad Nacional Autónoma de México,Brasil,2020,Science,0.89,
+74,Estudio sobre la ciencia abierta 73,Universidad Nacional Autónoma de México,Argentna,2023,Science,4.81,cien
+75,Estudio sobre la ciencia abierta 74,Universidade de São Paulo,Argentina,2021,Nature,5.47,
+76,Estudio sobre la ciencia abierta 75,Universidad Nacional Autónoma de México,Chile,2020,Science,12.54,268
+77,Estudio sobre la ciencia abierta 76,Universidad Nacional Autónoma de México,Brasil,20XX,Journal of Open Science,4.53,338
+78,Estudio sobre la ciencia abierta 77,Pontificia Universidad Católica de Chile,Brasil,2020,Nature,-1.26,
+79,Estudio sobre la ciencia abierta 78,Universidad de Buenos Aires,Colombia,2022,Journal of Open Science,5.15,cien
+80,Estudio sobre la ciencia abierta 79,Universidad de Buenos Aires,Argentina,2020,Journal of Open Science,8.27,
+81,Estudio sobre la ciencia abierta 80,Universidad de los Andes,Argentina,20XX,Science,8.66,
+82,Estudio sobre la ciencia abierta 81,Universidade de São Paulo,Colombia,20XX,PLoS ONE,9.01,
+83,Estudio sobre la ciencia abierta 82,Universidad de los Andes,Peru,2021,Science,-1.33,
+84,Estudio sobre la ciencia abierta 83,Universidade de São Paulo,Brasil,2021,Nature,14.61,316
+85,Estudio sobre la ciencia abierta 84,Pontificia Universidad Católica de Chile,Brazil,2023,Nature,10.98,
+86,Estudio sobre la ciencia abierta 85,Universidad de los Andes,Argentna,2022,PLoS ONE,13.94,cien
+87,Estudio sobre la ciencia abierta 86,Universidade de São Paulo,Peru,20XX,Science,2.0,
+88,Estudio sobre la ciencia abierta 87,Universidad de los Andes,Brazil,2022,Nature,0.39,
+89,Estudio sobre la ciencia abierta 88,Pontificia Universidad Católica de Chile,Brazil,2023,Science,6.65,334
+90,Estudio sobre la ciencia abierta 89,Pontificia Universidad Católica de Chile,México,20XX,Science,2.7,
+91,Estudio sobre la ciencia abierta 90,Universidad de Buenos Aires,Argentina,20XX,Documentos CEDE,4.74,
+92,Estudio sobre la ciencia abierta 91,Pontificia Universidad Católica de Chile,Argentina,2022,Documentos CEDE,5.89,57
+93,Estudio sobre la ciencia abierta 92,Universidade de São Paulo,Peru,2022,Science,14.5,
+94,Estudio sobre la ciencia abierta 93,Universidad de los Andes,Argentna,2023,PLoS ONE,9.31,16
+95,Estudio sobre la ciencia abierta 94,Pontificia Universidad Católica de Chile,Chile,20XX,Documentos CEDE,8.87,cien
+96,Estudio sobre la ciencia abierta 95,Universidad de Buenos Aires,Colombia,2022,Journal of Open Science,3.28,cien
+97,Estudio sobre la ciencia abierta 96,Universidad Nacional Autónoma de México,Argentina,2023,Science,14.61,
+98,Estudio sobre la ciencia abierta 97,Pontificia Universidad Católica de Chile,Brasil,20XX,Nature,11.58,cien
+99,Estudio sobre la ciencia abierta 98,Pontificia Universidad Católica de Chile,Argentna,2020,Documentos CEDE,-0.75,cien
+100,Estudio sobre la ciencia abierta 99,Universidade de São Paulo,Argentina,2020,PLoS ONE,0.97,42

@@ -81,6 +81,7 @@ $data_cleaning_content = @"
 # data_cleaning.py
 import pandas as pd
 import numpy as np
+import os
 
 # Ruta base del proyecto
 base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -129,6 +130,7 @@ $graphs_content = @"
 # graphs.py
 import matplotlib.pyplot as plt
 import pandas as pd
+import os
 
 
 # Ruta base del proyecto
