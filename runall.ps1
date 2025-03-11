@@ -29,6 +29,8 @@ import random
 import numpy as np
 import os
 
+# Ruta base del proyecto
+base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Semillas para asegurar replicabilidad
 random.seed(123)
 np.random.seed(123)
@@ -67,7 +69,7 @@ df = pd.DataFrame(datos, columns=["ID", "Título", "Afiliación", "País", "Año
                                   "Revista", "Factor de impacto", "Citas"])
 
 # Guardar datos
-ruta_guardado = os.path.join("..", "data", "raw", "simulated_data.csv")
+ruta_guardado = os.path.join(base_path, "data", "raw", "simulated_data.csv")
 os.makedirs(os.path.dirname(ruta_guardado), exist_ok=True)
 df.to_csv(ruta_guardado, index=False)
 "@
@@ -80,8 +82,10 @@ $data_cleaning_content = @"
 import pandas as pd
 import numpy as np
 
+# Ruta base del proyecto
+base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Cargar datos
-datos = pd.read_csv("../data/raw/simulated_data.csv", encoding="utf-8-sig")
+datos = pd.read_csv(os.path.join(base_path, "data", "raw", "simulated_data.csv"), encoding="utf-8-sig")
 
 # Eliminar posibles duplicados
 datos = datos.drop_duplicates()
@@ -113,7 +117,7 @@ datos["Factor de impacto"] = datos["Factor de impacto"].apply(lambda x: x if x >
 datos = datos.dropna(subset=["Título", "Año de publicación", "Citas", "Factor de impacto"])
 
 # Guardar datos limpios
-ruta_guardado = os.path.join("..", "data", "processed", "clear_data.csv")
+ruta_guardado = os.path.join(base_path, "data", "processed", "clear_data.csv")
 os.makedirs(os.path.dirname(ruta_guardado), exist_ok=True)
 datos.to_csv(ruta_guardado, index=False, encoding="utf-8-sig")
 "@
@@ -126,8 +130,11 @@ $graphs_content = @"
 import matplotlib.pyplot as plt
 import pandas as pd
 
+
+# Ruta base del proyecto
+base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Cargar datos limpios
-data = pd.read_csv("../data/processed/clear_data.csv", encoding="utf-8-sig")
+data = pd.read_csv(os.path.join(base_path, "data", "processed", "clear_data.csv"), encoding="utf-8-sig")
 
 # Generar gráfico
 fig, ax = plt.subplots()
@@ -137,7 +144,7 @@ ax.set_xlabel('Citas')
 ax.set_ylabel('Factor de impacto')
 
 # Guardar gráfico
-ruta_guardado = os.path.join("..", "results", "figures", "figure1.pdf")
+ruta_guardado = os.path.join(base_path, "results", "figures", "figure1.pdf")
 os.makedirs(os.path.dirname(ruta_guardado), exist_ok=True)
 fig.savefig(ruta_guardado)
 "@
