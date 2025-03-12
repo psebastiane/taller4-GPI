@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
+  <diagram name="Página-1" id="GumMPImTSKoelcvScnSg">
+    <mxGraphModel dx="1666" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HC325poa335-O_-GN25u-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="280" width="528.75" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="415" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="160" width="265" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HC325poa335-O_-GN25u-2" target="HC325poa335-O_-GN25u-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-2" value="simulated_data.csv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="320" y="195" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HC325poa335-O_-GN25u-6" target="HC325poa335-O_-GN25u-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-6" value="simulated_data.csv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="586.25" y="291.25" width="115" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HC325poa335-O_-GN25u-8" target="HC325poa335-O_-GN25u-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HC325poa335-O_-GN25u-8" target="HC325poa335-O_-GN25u-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="HC325poa335-O_-GN25u-8" target="HC325poa335-O_-GN25u-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HC325poa335-O_-GN25u-8" target="HC325poa335-O_-GN25u-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-8" value="Análisis de datos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="582.5" y="381.25" width="122.5" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HC325poa335-O_-GN25u-10" target="HC325poa335-O_-GN25u-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-10" value="Limpieza de datos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="203.75" width="100" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HC325poa335-O_-GN25u-12" target="HC325poa335-O_-GN25u-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-12" value="Simulación" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HC325poa335-O_-GN25u-13" target="HC325poa335-O_-GN25u-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-13" value="simulated_data.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HC325poa335-O_-GN25u-14" target="HC325poa335-O_-GN25u-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-14" value="barras.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="451.25" y="403.75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-15" value="data_cleaning.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="210" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HC325poa335-O_-GN25u-16" target="HC325poa335-O_-GN25u-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-16" value="exploracion_citas.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="396.25" y="453.75" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HC325poa335-O_-GN25u-17" target="HC325poa335-O_-GN25u-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-17" value="graphs.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="451.25" y="503.75" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-19" value="utilidades.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="441.25" y="351.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-23" value="citas_por_pais_anho.pdf" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="201.25" y="351.25" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-24" value="figure1.pdf" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="241.25" y="443.75" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-25" value="figure2.pdf" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="241.25" y="528.75" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HC325poa335-O_-GN25u-15" target="HC325poa335-O_-GN25u-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. Procesamiento&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1.Simulación&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="160" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HC325poa335-O_-GN25u-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3.Análisis de datos&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="241.25" y="291.25" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
