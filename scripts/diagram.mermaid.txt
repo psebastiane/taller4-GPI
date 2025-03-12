@@ -1,0 +1,23 @@
+---
+config:
+  theme: neutral
+---
+graph TD
+    subgraph Simulación
+        A[[Simulación]] --> B[simulated_data.py]
+        B --> C[(simulated_data.csv)]
+    end
+    subgraph Procesamiento
+        C[(simulated_data.csv)] --> D[[Limpieza de datos]]
+        D --> E[(simuled_data.csv)]
+    end
+    subgraph "Análisis de datos"
+        E --> F[[Análisis de datos]]
+        F --> G[utilidades.py]
+        F --> H[barras.py]
+        F --> I[exploracion_citas.py]
+        F --> J[graphs.py]
+        G --> K[/citas_por_pais_anho.pdf/]
+        H --> L[/figure1.pdf/]
+        J --> M[/figure2.pdf/]
+    end
